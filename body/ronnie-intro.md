@@ -1,0 +1,5 @@
+## Ronnie &mdash; Intro
+Ronnie lay across his bed in his room, walls gray-painted and clutter permeating everything. No place to sort things. In his drawer a razorblade and just some cash. And in another there was enough clothing. No place to sort thoughts.
+Senior year of high school did nothing to him to induce the “senioritis.” He disappointed himself &mdash; and his parents. But he also really disappointed himself. This morning he snuffed out his alarm and showered. And he dressed himself. And he ate a sufficient amount. His car was reliable and he took himself to school.
+Inside the old building he attended his classes and worked and studied. Heading home that day he itched the back of his neck.
+Finally he passed the old building. It was softly depressing thinking of old names. They passed through like lines on the road and he gave up catching them. So soon they lost meaning. And every name lost meaning. But his own was just to be found at some point. Couldn’t say when. Maybe never. Still it was in front of his face. Just lost.
