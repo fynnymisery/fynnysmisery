@@ -1,0 +1,55 @@
+#!/bin/bash
+
+# read chronology, assign lines to variables
+# file="chronology.txt"
+file="/home/amnesia/Desktop/fynnysmisery/lj/chronology.txt"
+while read -r line
+do
+    A="$line"
+    echo "read: $A"
+    B="$line"
+    echo "read: $B"
+    C="$line"
+    echo "read: $C"
+    D="$line"
+    echo "read: $D"
+    E="$line"
+    echo "read: $E"
+    F="$line"
+    echo "read: $F"
+    G="$line"
+    echo "read: $G"
+    H="$line"
+    echo "read: $H"
+    I="$line"
+    echo "read: $I"
+    J="$line"
+    echo "read: $J"
+done < "$file"
+
+# bind newline to variable
+NL="echo """
+# bind redirection to variable
+RE=">> body.md"
+
+# concatenate all files into body.md with empty line interspersion
+cat $A $RE
+$NL $RE
+cat $B $RE
+$NL $RE
+cat $C $RE
+$NL $RE
+cat $D $RE
+$NL $RE
+cat $E $RE
+$NL $RE
+cat $F $RE
+$NL $RE
+cat $G $RE
+$NL $RE
+cat $H $RE
+$NL $RE
+cat $I $RE
+$NL $RE
+cat $J $RE
+$NL $RE

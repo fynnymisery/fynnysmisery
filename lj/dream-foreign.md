@@ -1,0 +1,2 @@
+## Dream foreign
+Hurt. Dreams have... concepts. They aren't words. They don't speak English. They're purely thought. So there's something about them. And I used to have dreams where I had moved to somewhere cramped and unfamiliar, with only one of my parents. Here. They're both here now. But there are other people who matter to me so... who aren't here. And it feels like those dreams. It's cramped, unfamiliar, and not in English. And she isn't here.
